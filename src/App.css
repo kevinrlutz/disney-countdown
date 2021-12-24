@@ -2,9 +2,7 @@
   height: 100%;
   width: 100%;
   text-align: center;
-  background: url('./img/castle.png') no-repeat center center fixed;
-  background-size: cover;
-  position: fixed;
+  position: fixed;  
 }
 
 h1 {
@@ -14,8 +12,12 @@ h1 {
 h2 {
   font-size: 4rem;
 }
-.container {
-  top: 50%;
-  color: red;
+
+.main {
+
+}
+
+.castle {
+  width: 15rem;
 }
 
